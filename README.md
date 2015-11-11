@@ -1,4 +1,4 @@
-# DMAK: Differential-Methylation Annotation Knowledgebase
+## DMAK: Differential-Methylation Annotation Knowledgebase
 
 This GitHub repository is to deposit the Pan-Cancer DMAK (Differential-Methylation Annotation Knowledgebase) results for our recent ENCODE project. DMAK contains the following information:
 
