@@ -2,10 +2,10 @@
 
 This GitHub repository is to deposit the Pan-Cancer DMAK (Differential-Methylation Annotation Knowledgebase) results for our recent ENCODE project. DMAK contains the following information:
 
-### D1_methylValue_C&T:
+### D1_methylValue_C&T (zipped due to size):
 Statistical information detected for sequencing read coverage, number of Cs and Ts of for the 688,445 CpG sites across all cancer and normal cell lines listed above. For consistence, all DNA methylation data sets from ENCODE Consortium are based on the RRBS platform;
 
-### D2_methylValue_Percentage:
+### D2_methylValue_Percentage (zipped due to size):
 Analysis and annotation results for the methylated CpG sites (mCpG), which provide the methylation percentage value for all mCpG sites across the mentioned cell lines. The higher percentage value indicates the higher methylation status, and vice versa;
 
 ### D3_T47D.methyl.DVQV.25p:
