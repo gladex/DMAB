@@ -1,11 +1,10 @@
-# DMAK
-# Differential-Methylation Annotation Knowledgebase
+# DMAK: Differential-Methylation Annotation Knowledgebase
 
 This GitHub portal is to deposit the Pan-Cancer DMAK (Differential-Methylation Annotation Knowledgebase) results for our recent ENCODE project.
 
-DMAK contains the following information.
+DMAK contains the following information:
 
-D1_methylValue_C&T:
+#D1_methylValue_C&T:
 Statistical information detected for sequencing read coverage, number of Cs and Ts of for the 688,445 CpG sites across all cancer and normal cell lines listed above. For consistence, all DNA methylation data sets from ENCODE Consortium are based on the RRBS platform;
 
 D2_methylValue_Percentage:
