@@ -32,7 +32,7 @@ Gene Ontology annotation results for the TSGs identified from hypo-DMRs.
 ## F1_Hyper_TSG_All.png
 Functional association network for tumor suppressor genes (TSG) identified from hyper DMRs.
 
-## F1_Hypo_TSG_All.png
+## F2_Hypo_TSG_All.png
 Functional association network for tumor suppressor genes (TSG) identified from hypo DMRs.
 
 Any citation or re-usage of the resources, please cite properly or contact me first for more details.
