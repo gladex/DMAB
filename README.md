@@ -1,7 +1,7 @@
 # DMAK
-Differentially-Methylation Annotation Knowledgebase
+Differential-Methylation Annotation Knowledgebase
 
-This GitHub portal is for depositing the Pan-Cancer DMAK (Differentially-Methylation Annotation Knowledgebase) results for our recent ENCODE project.
+This GitHub portal is to deposit the Pan-Cancer DMAK (Differential-Methylation Annotation Knowledgebase) results for our recent ENCODE project.
 
 DMAK contains the following information.
 
