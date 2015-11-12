@@ -35,6 +35,7 @@ Functional association network for tumor suppressor genes (TSG) identified from 
 ## F2_Hypo_TSG_All.png
 Functional association network for tumor suppressor genes (TSG) identified from hypo DMRs.
 
-Any citation or re-usage of the resources, please cite properly or contact me first for more details.
+All the curated reference sources and read-to-use pan-cancer analysis results are deposited at: http://github.com/gladex/DMAK. We continuously update and revise the contents of this knowledgebase.
+Suggestion or recommendation to pan-cancer analysis repository, DMAK, is greatly appreciated at bh.tang@outlook.com. Any citation or re-usage of the resources, please cite properly.
 
-(c) BHT (bh.tang@outlook.com)
+(c) BHT
