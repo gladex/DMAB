@@ -17,22 +17,22 @@ Statistical analysis and annotation results for the differentially-methylated re
 #### D5_T47D_SigDMR.HYPER:
 Statistical analysis and annotation results for the significantly hypermethylated-DMRs (Sig-Hyper-DMRs) with reference to T-47D cell type;
 
-### D6_T47D_SigDMR.HYPO:
+#### D6_T47D_SigDMR.HYPO:
 Statistical analysis and annotation results for the significantly hypomethylated-DMRs (Sig-Hypo-DMRs) with reference to T-47D cell type;
 
-### D7_T47D_methyGenes:
+#### D7_T47D_methyGenes:
 Statistical analysis and annotation results for the identified genes from all DMRs (hyper-DMRs and hypo-DMRs) with reference to T-47D cell type;
 
-### D8_GO_HyperDMR:
+#### D8_GO_HyperDMR:
 Gene Ontology annotation results for the TSGs identified from hyper-DMRs;
 
-### D9_GO_HypoDMR:
+#### D9_GO_HypoDMR:
 Gene Ontology annotation results for the TSGs identified from hypo-DMRs.
 
-## F1_Hyper_TSG_All.png
+#### F1_Hyper_TSG_All.png
 Functional association network for tumor suppressor genes (TSG) identified from hyper DMRs.
 
-## F2_Hypo_TSG_All.png
+#### F2_Hypo_TSG_All.png
 Functional association network for tumor suppressor genes (TSG) identified from hypo DMRs.
 
 All the curated reference sources and read-to-use pan-cancer analysis results are deposited at: http://github.com/gladex/DMAK. We continuously update and revise the contents of this knowledgebase.
