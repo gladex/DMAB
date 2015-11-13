@@ -29,10 +29,10 @@ Gene Ontology annotation results for the TSGs identified from hyper-DMRs;
 #### D9_GO_HypoDMR:
 Gene Ontology annotation results for the TSGs identified from hypo-DMRs.
 
-#### F1_Hyper_TSG_All.png
+#### F1_Hyper_TSG_All.png:
 Functional association network for tumor suppressor genes (TSG) identified from hyper DMRs.
 
-#### F2_Hypo_TSG_All.png
+#### F2_Hypo_TSG_All.png:
 Functional association network for tumor suppressor genes (TSG) identified from hypo DMRs.
 
 All the curated reference sources and read-to-use pan-cancer analysis results are deposited at: http://github.com/gladex/DMAK. We continuously update and revise the contents of this knowledgebase.
